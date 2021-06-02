@@ -18,5 +18,16 @@
     <ClInclude Include="C:\Users\PKNU\Desktop\cursor.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="cursor.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="4장 캡슐화\cursor.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="5장 연산자 오버로딩\operator2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
