@@ -143,9 +143,6 @@
     <ClInclude Include="C:\Users\PKNU\Desktop\cursor.h" />
     <ClInclude Include="cursor.h" />
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="5장 연산자 오버로딩\operator2.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
