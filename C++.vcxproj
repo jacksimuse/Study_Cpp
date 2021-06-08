@@ -143,6 +143,9 @@
     <ClInclude Include="C:\Users\PKNU\Desktop\cursor.h" />
     <ClInclude Include="cursor.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="8장 템플릿\NonTypeArgument.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
