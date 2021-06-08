@@ -26,7 +26,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="8장 템플릿\NonTypeArgument.cpp">
+    <ClCompile Include="9장 예외처리\tryctor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

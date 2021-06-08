@@ -144,7 +144,7 @@
     <ClInclude Include="cursor.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="8장 템플릿\NonTypeArgument.cpp" />
+    <ClCompile Include="9장 예외처리\tryctor.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
