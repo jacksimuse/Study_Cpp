@@ -143,9 +143,6 @@
     <ClInclude Include="C:\Users\PKNU\Desktop\cursor.h" />
     <ClInclude Include="cursor.h" />
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="9장 예외처리\tryctor.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
