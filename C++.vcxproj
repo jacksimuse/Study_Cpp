@@ -139,9 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="13장 C++실습\cursor.h" />
     <ClInclude Include="4장 캡슐화\cursor.h" />
     <ClInclude Include="C:\Users\PKNU\Desktop\cursor.h" />
     <ClInclude Include="cursor.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="13장 C++실습\gostop.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -24,5 +24,13 @@
     <ClInclude Include="4장 캡슐화\cursor.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="13장 C++실습\cursor.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="13장 C++실습\gostop.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
